@@ -1,0 +1,1 @@
+Hello!  I am Raymond the maker of Life:The Game!  I just wanna say thank you for downloading my game!  It means a lot to me!  I'd appreciate you even more if, you have any issue, and I mean any issue(program wise), please put it in the issue section of the Github repository you  got this from!
