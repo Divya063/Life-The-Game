@@ -1,0 +1,9 @@
+--------------------
+Life:The Game
+by:Raymond
+
+Version:v1.0-alpha
+--------------------
+S = start game
+I = info about charater
+G = re-generate charater
